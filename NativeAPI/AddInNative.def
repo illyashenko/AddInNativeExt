@@ -1,0 +1,7 @@
+LIBRARY "AddInNativeExt"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+SetPlatformCapabilities
